@@ -1,30 +1,28 @@
+## **Portafolio web **
 
-# Portafolio
+ Proyecto web personal creado como prueba de mis actividades como desarrollador web.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
+## Construido con 🛠️
 
-## Development server
+-  [Angular](https://github.com/angular/angular-cli) - Framework web usado en su versión 9.0.4.
+* [SASS](https://sass-lang.com/documentation/syntax) - El preprocesador CSS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Contribuyendo 🖇️
+   Contribuyendo como aporte hacia la comunidad de cómo crear un portafolio web online utilizando Angular y un preprocesador.
 
-## Code scaffolding
+## Autores ✒️
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* [Joiss Ventura Rivera](https://github.com/joissVentura) - Creador y encargado de la administración y diseño del portafolio.
 
-## Build
+## Licencia 📄
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Este proyecto está bajo la Licencia (MIT) - Para más detalles mirar la [licencia](https://angular.io/license) otorgada por Angular.
 
-## Running unit tests
+## Expresiones de Gratitud 🎁
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Comenta a otros sobre este proyecto 📢
+* Si considera alguna mejor significativa hacia el proyecto hacer un pull request.
+* Agradezco de ante mano todas las criticas constructivas acerca del proyecto.
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-
+---
+⌨️ con ❤️ por parte de [Joiss Ventura Rivera](https://github.com/joissVentura) 😊
